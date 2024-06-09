@@ -28,6 +28,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <html
   class="not-ready lg:text-base"
   style="--bg: #faf8f1"
@@ -51,7 +61,7 @@
   
   
   
-  <meta name="description" content="Emoji can be enabled in a Hugo project in a number of ways." />
+  <meta name="description" content="Emoji can be enable111d in a Hugo project in a number of ways." />
   <meta name="author" content="lee.so" />
   
 
@@ -74,9 +84,13 @@
   
   
   
+  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/d1532c823e6808f48f2268f25cc3ada5?s=160&amp;d=identicon" />
+  
   
 
   
+  
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
   
   
 
@@ -176,7 +190,39 @@
   >
     
     
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/contact/"
+        >Contact</a
+      >
+      
+    </nav>
+    
 
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/zhuaoyuan"
+        target="_blank"
+        rel="me"
+      >
+        github
+      </a>
+      
+    </nav>
     
   </div>
 </header>
@@ -206,10 +252,11 @@
     
   </header>
 
-  <section><p>Emoji can be enabled in a Hugo project in a number of ways.</p>
+  <section><p>Emoji can be enable111d in a Hugo project in a number of ways.</p>
 <p>The <a href="https://gohugo.io/functions/emojify/"><code>emojify</code></a> function can be called directly in templates or <a href="https://gohugo.io/templates/shortcode-templates/#inline-shortcodes">Inline Shortcodes</a>.</p>
 <p>To enable emoji globally, set <code>enableEmoji</code> to <code>true</code> in your site&rsquo;s <a href="https://gohugo.io/getting-started/configuration/">configuration</a> and then you can type emoji shorthand codes directly in content files; e.g.</p>
-<!-- raw HTML omitted -->
+<p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
+<br>
 <p>The <a href="http://www.emoji-cheat-sheet.com/">Emoji cheat sheet</a> is a useful reference for emoji shorthand codes.</p>
 <hr>
 <p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
@@ -238,10 +285,16 @@
     
     <a
       class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="http://localhost:1313/post/math-typesetting/"
-      ><span class="mr-1.5">←</span><span>Math Typesetting</span></a
+      href="http://localhost:1313/post/test-page-bundle/"
+      ><span class="mr-1.5">←</span><span>bundle</span></a
     >
     
+    
+    <a
+      class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
+      href="http://localhost:1313/post/emoji-support-copy/"
+      ><span>Emoji Support copy</span><span class="ml-1.5">→</span></a
+    >
     
   </nav>
   

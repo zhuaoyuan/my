@@ -2,3 +2,29 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'zays Hugo Site'
 theme = 'paper'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+
+[params]
+  color = 'linen'
+
+  github = 'zhuaoyuan'
+
+  avatar = 'zhuaoyuan@gmail.com'
+  name = 'zhuaoyuan'
+  bio = '牢骚太盛防肠断'

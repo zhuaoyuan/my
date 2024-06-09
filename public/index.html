@@ -28,6 +28,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <html
   class="not-ready lg:text-base"
   style="--bg: #faf8f1"
@@ -56,7 +66,7 @@
     name="description"
     content="A personal blog"
   />
-  <meta name="author" content="zays Hugo Site" />
+  <meta name="author" content="zhuaoyuan" />
   
 
   
@@ -78,9 +88,13 @@
   
   
   
+  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/d1532c823e6808f48f2268f25cc3ada5?s=160&amp;d=identicon" />
+  
   
 
   
+  
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
   
   
 
@@ -174,7 +188,39 @@
   >
     
     
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/contact/"
+        >Contact</a
+      >
+      
+    </nav>
+    
 
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/zhuaoyuan"
+        target="_blank"
+        rel="me"
+      >
+        github
+      </a>
+      
+    </nav>
     
   </div>
 </header>
@@ -202,6 +248,28 @@
 
 
 
+<div class="-mt-2 mb-16 flex items-center">
+  
+  <div
+    class="mr-5 shrink-0 rounded-full border-[0.5px] border-black/10 bg-white/50 p-3 shadow dark:bg-white/[15%]"
+  >
+    <img
+      class="my-0 aspect-square w-16 rounded-full !bg-black/5 hover:animate-spin dark:!bg-black/80"
+      src="https://www.gravatar.com/avatar/d1532c823e6808f48f2268f25cc3ada5?s=160&amp;d=identicon"
+      alt="zhuaoyuan"
+    />
+  </div>
+  
+  
+  <div>
+    <h1 class="mb-2 mt-3 text-[1.6rem] font-bold">zhuaoyuan</h1>
+    <div class="break-words">
+      牢骚太盛防肠断
+    </div>
+  </div>
+  
+</div>
+
 
 
 
@@ -225,18 +293,10 @@
 
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
-  <h2 class="!my-0 pb-1 font-bold !leading-none">Markdown Syntax Guide</h2>
-  <time class="text-sm antialiased opacity-60"
-    >Mar 11, 2019</time
+  <span
+    class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
+    >Featured</span
   >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/markdown-syntax/">Markdown Syntax Guide</a>
-</section>
-
-
-
-
-
-<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
   <h2 class="!my-0 pb-1 font-bold !leading-none">Rich Content</h2>
   <time class="text-sm antialiased opacity-60"
@@ -251,11 +311,16 @@
 
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
-  <h2 class="!my-0 pb-1 font-bold !leading-none">Math Typesetting</h2>
-  <time class="text-sm antialiased opacity-60"
-    >Mar 8, 2019</time
+  <span
+    class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
+    >Featured</span
   >
-  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/math-typesetting/">Math Typesetting</a>
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">bundle</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 5, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/test-page-bundle/">bundle</a>
 </section>
 
 
@@ -264,11 +329,60 @@
 
 <section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
   
+  <span
+    class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
+    >Featured</span
+  >
+  
   <h2 class="!my-0 pb-1 font-bold !leading-none">Emoji Support</h2>
   <time class="text-sm antialiased opacity-60"
     >Mar 5, 2019</time
   >
   <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/emoji-support/">Emoji Support</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <span
+    class="mb-2 ml-px inline-block text-[0.8rem] font-medium uppercase tracking-wider text-[#ff3b2d] opacity-70"
+    >Featured</span
+  >
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Emoji Support copy</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 5, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/emoji-support-copy/">Emoji Support copy</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Markdown Syntax Guide</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 11, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/markdown-syntax/">Markdown Syntax Guide</a>
+</section>
+
+
+
+
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  
+  <h2 class="!my-0 pb-1 font-bold !leading-none">Math Typesetting</h2>
+  <time class="text-sm antialiased opacity-60"
+    >Mar 8, 2019</time
+  >
+  <a class="absolute inset-0 text-[0]" href="http://localhost:1313/post/math-typesetting/">Math Typesetting</a>
 </section>
 
 

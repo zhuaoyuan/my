@@ -28,6 +28,16 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
 <html
   class="not-ready lg:text-base"
   style="--bg: #faf8f1"
@@ -54,7 +64,7 @@
   <meta name="description" content="Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github." />
-  <meta name="author" content="lee.so" />
+  <meta name="author" content="zhuaoyuan" />
   
 
   
@@ -76,9 +86,13 @@ https://github.com/yuin/goldmark https://github." />
   
   
   
+  <link rel="preload" as="image" href="https://www.gravatar.com/avatar/d1532c823e6808f48f2268f25cc3ada5?s=160&amp;d=identicon" />
+  
   
 
   
+  
+  <link rel="preload" as="image" href="http://localhost:1313/github.svg" />
   
   
 
@@ -178,7 +192,39 @@ https://github.com/yuin/goldmark https://github." />
   >
     
     
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/contact/"
+        >Contact</a
+      >
+      
+    </nav>
+    
 
+    
+    <nav
+      class="mt-12 flex justify-center space-x-10 dark:invert lg:ml-12 lg:mt-0 lg:items-center lg:space-x-6"
+    >
+      
+      <a
+        class="h-8 w-8 text-[0] [background:var(--url)_center_center/cover_no-repeat] lg:h-6 lg:w-6"
+        style="--url: url(./github.svg)"
+        href="https://github.com/zhuaoyuan"
+        target="_blank"
+        rel="me"
+      >
+        github
+      </a>
+      
+    </nav>
     
   </div>
 </header>
