@@ -16,7 +16,7 @@ tags = [
 
 > * 旅愁-贾鹏芳 
 <audio controls>
-  <source src="/post/a-tour-to-switzerland/jiapengfang-lvchou.mp3" type="audio/mpeg">
+  <source src="jiapengfang-lvchou.mp3" type="audio/mpeg">
   Your browser does not support this audio format.
 </audio>
 
@@ -75,153 +75,153 @@ tags = [
 
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image31.jpg" />
+<img class="with-img-caption" src="image31.jpg" />
 <i class="img-caption">文根 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image30.jpg" />
+<img class="with-img-caption" src="image30.jpg" />
 <i class="img-caption">米伦 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image28.jpg" />
+<img class="with-img-caption" src="image28.jpg" />
 <i class="img-caption">first山-俯瞰格林德瓦 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image27.jpg" />
+<img class="with-img-caption" src="image27.jpg" />
 <i class="img-caption">蒙特勒 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image26.jpg" />
+<img class="with-img-caption" src="image26.jpg" />
 <i class="img-caption">风雪瑞吉山 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image25.jpg" />
+<img class="with-img-caption" src="image25.jpg" />
 <i class="img-caption">coop常用采购项 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image24.jpg" />
+<img class="with-img-caption" src="image24.jpg" />
 <i class="img-caption">黄金列车-龙疆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image21.jpg" />
+<img class="with-img-caption" src="image21.jpg" />
 <i class="img-caption">卢加诺 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image22.jpg" />
+<img class="with-img-caption" src="image22.jpg" />
 <i class="img-caption">苏黎世美术馆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image23.jpg" />
+<img class="with-img-caption" src="image23.jpg" />
 <i class="img-caption">苏黎世美术馆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image14.jpg" />
+<img class="with-img-caption" src="image14.jpg" />
 <i class="img-caption">苏黎世美术馆-kiki <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image34.jpg" />
-<i class="img-caption">蒙特勒-Freddie雕塑 <i/>
+<img class="with-img-caption" src="image34.jpg" />
+<i class="img-caption">蒙特勒-Freddie Mercury <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image16.jpg" />
+<img class="with-img-caption" src="image16.jpg" />
 <i class="img-caption">科尔马 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image29.jpg" />
+<img class="with-img-caption" src="image29.jpg" />
 <i class="img-caption">科尔马 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image15.jpg" />
+<img class="with-img-caption" src="image15.jpg" />
 <i class="img-caption">马特洪峰 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image33.jpg" />
+<img class="with-img-caption" src="image33.jpg" />
 <i class="img-caption">卢塞恩湖船上 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image13.jpg" />
+<img class="with-img-caption" src="image13.jpg" />
 <i class="img-caption">苏黎世-瑞士国家博物馆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image12.jpg" />
+<img class="with-img-caption" src="image12.jpg" />
 <i class="img-caption">苏黎世-瑞士国家博物馆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image32.jpg" />
+<img class="with-img-caption" src="image32.jpg" />
 <i class="img-caption">苏黎世-瑞士国家博物馆 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image11.jpg" />
+<img class="with-img-caption" src="image11.jpg" />
 <i class="img-caption">米伦 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image10.jpg" />
+<img class="with-img-caption" src="image10.jpg" />
 <i class="img-caption">harder-kulm 俯瞰图恩湖 <i/>
 </div>
 
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image8.jpg" />
+<img class="with-img-caption" src="image8.jpg" />
 <i class="img-caption">harder-kulm 俯瞰布里恩茨湖 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image7.jpg" />
+<img class="with-img-caption" src="image7.jpg" />
 <i class="img-caption">蒙特纽拉-黑塞纪念馆-打字机 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image6.jpg" />
+<img class="with-img-caption" src="image6.jpg" />
 <i class="img-caption">卢塞恩湖 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image5.jpg" />
+<img class="with-img-caption" src="image5.jpg" />
 <i class="img-caption">蒙特勒-西庸城堡 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image4.jpg" />
+<img class="with-img-caption" src="image4.jpg" />
 <i class="img-caption">蒙特勒-日内瓦湖 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image3.jpg" />
+<img class="with-img-caption" src="image3.jpg" />
 <i class="img-caption">图恩湖湖水 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image2.jpg" />
+<img class="with-img-caption" src="image2.jpg" />
 <i class="img-caption">卢塞恩骑兵和管乐队游行 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image1.jpg" />
+<img class="with-img-caption" src="image1.jpg" />
 <i class="img-caption">阿联酋航空机上娱乐系统-俄罗斯方块新记录 <i/>
 </div>
 
 <div>
-<img class="with-img-caption" src="/post/a-tour-of-switzerland/image20.jpg" />
+<img class="with-img-caption" src="image20.jpg" />
 <i class="img-caption">回程-上海之夜 <i/>
 </div>
 
