@@ -9,27 +9,6 @@
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Placeholder Text</title>
-      <link>http://localhost:1313/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rich Content</title>
-      <link>http://localhost:1313/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Emoji Support</title>
-      <link>http://localhost:1313/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enable111d in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title></title>
       <link>http://localhost:1313/archives/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
@@ -56,20 +35,6 @@
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/a-tour-of-switzerland/</guid>
       <description>&lt;p&gt;今天是为期10天的瑞士婚假旅行结束的第一天。返程途中，小王反复督促我将旅行记录发朋友圈；我对这种奇怪的支配行为倒不排斥，只是觉得好笑，将其作为上班前的上班。这也提醒了我，抓住机会进行一次难得的书写整理，也趁机试一下hugo的静态博客。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Math Typesetting</title>
-      <link>http://localhost:1313/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
