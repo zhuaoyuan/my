@@ -262,7 +262,23 @@
 <p><strong>N.B.</strong> The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>.emoji {
 </span></span><span style="display:flex;"><span>font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-</span></span><span style="display:flex;"><span>}</span></span></code></pre></div></section>
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+
+
+<style>
+.emojify {
+	font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+	font-size: 2rem;
+	vertical-align: middle;
+}
+@media screen and (max-width:650px) {
+  .nowrap {
+    display: block;
+    margin: 25px 0;
+  }
+}
+
+</style></section>
 
   
   
@@ -285,15 +301,15 @@
     
     <a
       class="flex w-1/2 items-center rounded-l-md p-6 pr-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="http://localhost:1313/post/test-page-bundle/"
-      ><span class="mr-1.5">←</span><span>bundle</span></a
+      href="http://localhost:1313/post/rich-content/"
+      ><span class="mr-1.5">←</span><span>Rich Content</span></a
     >
     
     
     <a
       class="ml-auto flex w-1/2 items-center justify-end rounded-r-md p-6 pl-3 font-semibold no-underline hover:bg-black/[2%] dark:hover:bg-white/[3%]"
-      href="http://localhost:1313/post/emoji-support-copy/"
-      ><span>Emoji Support copy</span><span class="ml-1.5">→</span></a
+      href="http://localhost:1313/post/a-tour-of-switzerland/"
+      ><span>瑞士旅行</span><span class="ml-1.5">→</span></a
     >
     
   </nav>

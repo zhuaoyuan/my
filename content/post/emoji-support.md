@@ -46,6 +46,7 @@ font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol,
     margin: 25px 0;
   }
 }
+
 </style>
 
 {{< /css.inline >}}

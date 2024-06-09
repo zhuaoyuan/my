@@ -7,3 +7,4 @@ author = "zhuaoyuan"
 +++
 
 - [github.com/zhuaoyuan](https://github.com/zhuaoyuan)
+- [zhuaoyuan@gmail.com](mailto:zhuaoyuan@gmail.com)

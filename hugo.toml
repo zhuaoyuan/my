@@ -6,7 +6,9 @@ theme = 'paper'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+[security]
+  enableInlineShortcodes = true
+  
 [menu]
 
   [[menu.main]]
@@ -28,3 +30,4 @@ theme = 'paper'
   avatar = 'zhuaoyuan@gmail.com'
   name = 'zhuaoyuan'
   bio = '牢骚太盛防肠断'
+

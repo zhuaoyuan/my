@@ -6,8 +6,36 @@
     <description>Recent content in Tags on zays Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Index</title>
+      <link>http://localhost:1313/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>http://localhost:1313/tags/life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Record</title>
+      <link>http://localhost:1313/tags/record/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/record/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/tags/thoughts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/thoughts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Css</title>
       <link>http://localhost:1313/tags/css/</link>
@@ -20,13 +48,6 @@
       <link>http://localhost:1313/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/html/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Index</title>
-      <link>http://localhost:1313/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/index/</guid>
       <description></description>
     </item>
     <item>

@@ -8,13 +8,7 @@
     <loc>http://localhost:1313/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/test-page-bundle/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/emoji-support-copy/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -29,6 +23,30 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2024-06-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/index/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/record/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thoughts/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/a-tour-of-switzerland/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/a-tour-to-switzerland-1/</loc>
+    <lastmod>2024-06-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,22 +56,13 @@
     <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/themes/</loc>

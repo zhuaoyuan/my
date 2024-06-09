@@ -6,7 +6,7 @@
     <description>Recent content in Posts on zays Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
@@ -23,13 +23,6 @@
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>bundle</title>
-      <link>http://localhost:1313/post/test-page-bundle/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/test-page-bundle/</guid>
-      <description>&lt;p&gt;Emoji can be enable111d in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Emoji Support</title>
       <link>http://localhost:1313/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
@@ -37,11 +30,18 @@
       <description>&lt;p&gt;Emoji can be enable111d in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Emoji Support copy</title>
-      <link>http://localhost:1313/post/emoji-support-copy/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/emoji-support-copy/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <title>瑞士旅行</title>
+      <link>http://localhost:1313/post/a-tour-of-switzerland/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-tour-of-switzerland/</guid>
+      <description>&lt;p&gt;今天是为期10天的瑞士婚假旅行结束的第一天。返程途中，小王反复督促我将旅行记录发朋友圈；我对这种奇怪的支配行为倒不排斥，只是觉得好笑，将其作为上班前的上班。这也提醒了我，抓住机会进行一次难得的书写整理，也趁机试一下hugo的静态博客。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>瑞士旅行-1</title>
+      <link>http://localhost:1313/post/a-tour-to-switzerland-1/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/a-tour-to-switzerland-1/</guid>
+      <description>&lt;p&gt;今天是为期10天的瑞士婚假旅行结束的第一天。返程途中，小王反复督促我将旅行记录发朋友圈；我对这种奇怪的支配行为倒不排斥，只是觉得好笑，将其作为上班前的上班。这也提醒了我，抓住机会进行一次难得的书写整理，也趁机试一下hugo的静态博客。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
