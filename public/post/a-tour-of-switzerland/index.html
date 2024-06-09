@@ -422,11 +422,15 @@ img.with-img-caption {
 .img-caption {
     font-style: normal;
     font-size: 15px;
-    color: #555;
     display: block;
     text-align: center;
     text-indent: 0;
     font-family: STKaiti, serif;
+}
+
+.img-caption:is(:where(.dark) article) {
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 </style></section>
 
