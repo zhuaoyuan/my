@@ -1,6 +1,6 @@
 +++
 author = "zhuaoyuan"
-title = "瑞士旅行"
+title = "瑞士旅行2024"
 date = "2024-06-09"
 description = ""
 tags = [
