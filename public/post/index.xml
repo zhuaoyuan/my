@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>瑞士旅行</title>
+      <title>瑞士旅行2024</title>
       <link>http://localhost:1313/post/a-tour-of-switzerland/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/a-tour-of-switzerland/</guid>
-      <description>&lt;p&gt;今天是为期10天的瑞士婚假旅行结束的第一天。返程途中，小王反复督促我将旅行记录发朋友圈；我对这种奇怪的支配行为倒不排斥，只是觉得好笑，将其作为上班前的上班。这也提醒了我，抓住机会进行一次难得的书写整理，也趁机试一下hugo的静态博客。&lt;/p&gt;</description>
+      <description>&lt;p&gt;今天是为期10天的瑞士婚假旅行结束的第一天。返程途中，小王反复督促我总结旅行记录；我对这种奇怪的支配行为倒不排斥，只是觉得好笑，将其作为上班前的上班。这也提醒了我，抓住机会进行一次难得的书写整理，也趁机试一下hugo的静态博客。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
