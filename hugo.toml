@@ -31,3 +31,6 @@ theme = 'paper'
   name = 'zhuaoyuan'
   bio = '牢骚太盛防肠断'
 
+[services]
+  [services.disqus]
+    shortname = 'zhuaoyuan'
