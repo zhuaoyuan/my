@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'zays Hugo Site'
 theme = 'paper'
+DisqusShortname = 'zhuaoyuan'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -30,7 +31,7 @@ theme = 'paper'
   avatar = 'zhuaoyuan@gmail.com'
   name = 'zhuaoyuan'
   bio = '牢骚太盛防肠断'
-
+  DisqusShortname='zhuaoyuan'
 [services]
   [services.disqus]
     shortname = 'zhuaoyuan'
