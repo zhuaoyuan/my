@@ -26,7 +26,7 @@ theme = 'paper'
 [params]
   color = 'linen'
   github = 'zhuaoyuan'
-  avatar = 'http://localhost:1313/my/images/avatar.png'
+  avatar = 'https://zhuaoyuan.github.io/my/images/avatar.png'
   name = 'zhuaoyuan'
   bio = '牢骚太盛防肠断'
 
