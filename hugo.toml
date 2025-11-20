@@ -1,6 +1,6 @@
 baseURL = 'https://zhuaoyuan.github.io/my/'
-languageCode = 'en-us'
-title = 'zays Hugo Site'
+languageCode = 'zh-cn'
+title = "zay's game of life"
 theme = 'paper'
 
 [markup]
@@ -25,10 +25,8 @@ theme = 'paper'
 
 [params]
   color = 'linen'
-
   github = 'zhuaoyuan'
-
-  avatar = 'zhuaoyuan@gmail.com'
+  avatar = 'http://localhost:1313/my/images/avatar.png'
   name = 'zhuaoyuan'
   bio = '牢骚太盛防肠断'
 
