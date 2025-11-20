@@ -1,7 +1,6 @@
 +++
 title = '写公众号作为一种社交方式'
 date = 2025-11-20T11:51:13+08:00
-draft = true
 tags = [
     "life",
     "record",
